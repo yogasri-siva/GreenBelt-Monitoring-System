@@ -19,8 +19,5 @@ By automating and monitoring the green belt, this system ensures that industrial
 - **Code**: Full Arduino code for the ESP32 and sensors.
 - **Video Demo**: A video demonstrating the system in action
 
-### Repository Contents
-- **Code**: Full Arduino code for the ESP32 and sensors.
-- **Documentation**: Connection diagrams, setup instructions, and details.
-- **Video Demo**: A video demonstrating the system in action.
+
 
